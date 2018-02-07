@@ -1,0 +1,6 @@
+<resources>
+  <string name="more_apps_url" translatable="false">https://play.google.com/store/apps/developer?id=RudeDroid</string>
+  <string name="server_config_file_id" translatable="false">0ByJRM2bgiax4U3ZrMHlTWUl3NXM</string>
+
+  <string name="app_name">SoundBoard</string>
+</resources>

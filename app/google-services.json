@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "682173981927",
+    "firebase_url": "https://soundboards-fa9fc.firebaseio.com",
+    "project_id": "soundboards-fa9fc",
+    "storage_bucket": "soundboards-fa9fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682173981927:android:df262ccbe1cdae3d",
+        "android_client_info": {
+          "package_name": "com.rudedroid.soundboard.rajoy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682173981927-rcnmijkr1ajoosc452bk2slggee8035a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqThyz3DA8xF1aPr3ByQ5NbT1is9QRoPM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

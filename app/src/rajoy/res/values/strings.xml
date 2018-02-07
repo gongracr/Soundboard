@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="characterFileId" translatable="false">0ByJRM2bgiax4MkNkMzllSl9aNVk</string>
+  <string name="banner_ad_unit_id" translatable="false">@string/banner_ad_release_id</string>
+  <string name="banner_ad_debug_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+  <string name="banner_ad_release_id" translatable="false">ca-app-pub-9596717658473802/9065248774</string>
+
+  <string name="app_name">Rajoy Mejores Frases</string>
+  <string name="share_sound">Compartir frase</string>
+  <string name="set_as_ringtone">Establecer como tono de llamada</string>
+  <string name="set_as_notification">Establecer como tono de notificación</string>
+  <string name="accept_writing_permissions_ringtone">Por favor acepta los permisos para establecer la frase como tono de llamada</string>
+  <string name="accept_writing_permissions_notification">Por favor acepta los permisos para establecer la frase como tono de notificación</string>
+  <string name="error_downloading_audio_files">Hubo un error descargando los archivos de audio</string>
+  <string name="error_storing_files">Hubo un error guardando el archivo en la memoria del teléfono</string>
+  <string name="need_allow_writing_permissions">Necesitas validar permisos de escritura</string>
+  <string name="tone_set_as_notification">Frase establecida como tono de notificación</string>
+  <string name="tone_set_as_ringtone">Frase establecida como tono de llamada</string>
+  <string name="more_apps_from_us">Más apps nuestras</string>
+  <string name="rate_us">Valóranos en Google Play</string>
+  <string name="contact_us">Contáctanos</string>
+</resources>
